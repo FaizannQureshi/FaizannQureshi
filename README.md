@@ -43,6 +43,16 @@ I combine **AI engineering + full-stack development**, allowing me to deliver co
 
 ---
 
+### 🤖 AI Automation Engineer — FlowRMS  
+📅 Dec 2025 – Mar 2026  
+
+- ⚙️ Developed AI-driven automation workflows to streamline business processes  
+- 🤖 Built and integrated LLM-based agents for task automation and data handling  
+- 🔗 Designed pipelines for processing and transforming unstructured data  
+- 📊 Improved operational efficiency through intelligent automation solutions
+
+---
+
 ### 🤖 AI & Data Engineer — GSPEC Technologies
 
 📅 Dec 2024 – Aug 2025
@@ -52,16 +62,6 @@ I combine **AI engineering + full-stack development**, allowing me to deliver co
 * ⚽ Fine-tuned YOLOv11 for real-time football detection (OpenCV + custom dataset)
 * 🎨 Fine-tuned Stable Diffusion (DreamBooth) for brand-specific image generation
 * 📚 Built RAG pipeline (ChromaDB + LlamaIndex + Mistral-7B) for legal document analysis
-
----
-
-### 🤖 AI Automation Engineer — FlowRMS  
-📅 Dec 2025 – Mar 2026  
-
-- ⚙️ Developed AI-driven automation workflows to streamline business processes  
-- 🤖 Built and integrated LLM-based agents for task automation and data handling  
-- 🔗 Designed pipelines for processing and transforming unstructured data  
-- 📊 Improved operational efficiency through intelligent automation solutions  
 
 ---
 

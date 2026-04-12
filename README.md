@@ -55,6 +55,16 @@ I combine **AI engineering + full-stack development**, allowing me to deliver co
 
 ---
 
+### 🤖 AI Automation Engineer — FlowRMS  
+📅 Dec 2025 – Mar 2026  
+
+- ⚙️ Developed AI-driven automation workflows to streamline business processes  
+- 🤖 Built and integrated LLM-based agents for task automation and data handling  
+- 🔗 Designed pipelines for processing and transforming unstructured data  
+- 📊 Improved operational efficiency through intelligent automation solutions  
+
+---
+
 ### 📊 Project Intern — Pakistan Oxygen Limited (POL)
 
 📅 July 2023 – Aug 2023

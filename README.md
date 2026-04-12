@@ -1,98 +1,147 @@
-# Hi, I'm Faizan Qureshi 👋
+<h1 align="center"><b>Hi, I'm Muhammad Faizan Qureshi 👋</b></h1>
 
-💻 AI Developer | Full-Stack Engineer | Final Year BSCS @ NUST
-🚀 Specializing in LLM-powered applications, intelligent systems, and scalable software
+<p align="center">
+AI Developer | Full-Stack Engineer | LLM & RAG Systems Specialist  
+</p>
+
+<p align="center">
+📞 +92 3357903070 • ✉️ muhammadfaizan9222@gmail.com  
+🔗 GitHub • LinkedIn  
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m an AI-focused software engineer with **3+ years of hands-on experience** building intelligent systems using **LLMs, NLP pipelines, and automation tools**.
+I’m an AI-focused software engineer with **3+ years of experience** building intelligent systems using **LLMs, NLP pipelines, computer vision, and full-stack applications**.
 
-I specialize in turning complex ideas into **production-ready applications** — whether it's an AI assistant, a data processing pipeline, or a full-stack mobile app.
+I specialize in developing **production-ready AI solutions**, including:
 
-My work focuses on:
+* 🤖 AI agents and chatbot systems
+* 🔗 RAG-based knowledge platforms
+* 📊 Data pipelines and automation tools
+* 📱 End-to-end mobile and web applications
 
-* 🤖 Building AI agents and chatbot systems
-* 🧠 Developing RAG-based knowledge systems
-* ⚙️ Designing backend pipelines for unstructured data
-* 📱 Creating complete applications (mobile + web)
-
-Alongside AI, I also have strong experience in **full-stack development (MERN + React Native)**, allowing me to build **end-to-end products**, not just models.
+I combine **AI engineering + full-stack development**, allowing me to deliver complete, scalable products — not just models.
 
 ---
 
-## ⚡ Core Expertise
+## 💼 Work Experience
 
-### 🤖 AI & LLM Development
+### 🧠 AI & Data Engineer (ASE) — GoSaaS, Inc.
 
-* OpenAI (GPT-4, GPT-3.5, Whisper), Claude
-* Open-source models (Llama 3, Mistral)
-* Prompt Engineering & AI workflow design
+📅 Sep 2025 – Present
 
-### 🔗 RAG Systems & Data Pipelines
-
-* Retrieval-Augmented Generation (RAG)
-* Vector databases: Pinecone, Qdrant, ChromaDB
-* Document parsing & knowledge extraction
-
-### 🧩 Chatbots & AI Agents
-
-* LangChain, AutoGen, agent-based workflows
-* Context-aware assistants & task automation
-* AI integrations into real-world applications
-
-### 📊 NLP & Data Processing
-
-* Named Entity Recognition (NER)
-* Text classification & sentiment analysis
-* Large-scale unstructured data handling
-
-### 🌐 Full-Stack & Deployment
-
-* React Native, MERN Stack
-* REST APIs & backend systems
-* Docker, AWS, Supabase
+* 🎓 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+* 🤖 Fine-tuned GPT OSS-20B using LoRA for PLM schema understanding and prompt-to-SQL generation (~900 Q&A pairs)
+* 🏗 Built AI agents using Oracle AI Agent Studio with enterprise data integration
+* 📐 Developed CadVision system for CAD revision comparison and automated validation
+* 📊 Created OTBI dashboards & BIP reports with optimized SQL queries
+* 🔄 Led data migration from legacy systems to Oracle Cloud (mapping, transformation, validation)
 
 ---
 
-## 🚀 What I Build
+### 🤖 AI & Data Engineer — GSPEC Technologies
 
-* AI assistants integrated into apps & websites
-* Smart chatbots trained on your own data
-* Internal tools for processing large datasets
-* NLP systems for extracting insights from documents
-* End-to-end products combining AI + full-stack apps
+📅 Dec 2024 – Aug 2025
 
----
-
-## 🌟 Highlight Project
-
-### 🏠 FindMyStay – Off-Campus Housing Solution
-
-A complete mobile application built to simplify student housing in Pakistan.
-
-* 📱 Developed using React Native (16+ screens)
-* 🔄 Dual flows for tenants and landlords
-* 🤖 AI chatbot integration for user support
-* 🎨 Designed in Figma and built end-to-end
+* 🌐 Built **BookYOLO** – AI-powered listing analyzer for Airbnb/Agoda/Booking platforms
+* 🧠 Developed physics-informed regression model (PyTorch) for CFD simulations
+* ⚽ Fine-tuned YOLOv11 for real-time football detection (OpenCV + custom dataset)
+* 🎨 Fine-tuned Stable Diffusion (DreamBooth) for brand-specific image generation
+* 📚 Built RAG pipeline (ChromaDB + LlamaIndex + Mistral-7B) for legal document analysis
 
 ---
 
-## 📈 Work Approach
+### 📊 Project Intern — Pakistan Oxygen Limited (POL)
 
-I focus on building solutions that are:
-✔ Scalable and production-ready
-✔ Clean, maintainable, and well-documented
-✔ Designed with real users and real problems in mind
+📅 July 2024 – Aug 2024
 
----
-
-## 📫 Let's Connect
-
-* 💼 LinkedIn: *(add link)*
-* 📧 Email: *(add email)*
+* 📈 Improved data workflows in Deliver & CAM operations
+* 📊 Developed dashboards for cylinder tracking and logistics
 
 ---
 
-⭐ *Open to freelance work, collaborations, and AI-driven product development opportunities.*
+## 🛠️ Technical Skills
+
+### 🤖 AI / Machine Learning
+
+PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, LLMs, RAG, OpenCV
+
+### 🧠 Computer Vision
+
+YOLO (Ultralytics), Object Detection, Image Classification, DreamBooth
+
+### 💻 Programming
+
+Python, JavaScript, C++, Java
+
+### 🌐 Full-Stack Development
+
+React.js, React Native, Node.js, FastAPI
+
+### 🗄 Databases & Analytics
+
+MongoDB, MySQL, Firebase, Supabase, OTBI, BI Publisher
+
+### ⚙️ Tools
+
+Git, GitHub, Docker, Jupyter, VS Code, Google Colab, n8n
+
+---
+
+## 🚀 Featured Work
+
+### 🤖 AI Data Ingestion & RAG Systems
+
+* Built scalable pipelines for processing unstructured data
+* Implemented vector search using ChromaDB
+* Designed context-aware LLM responses
+
+---
+
+### 📱 FindMyStay – Off-Campus Housing App
+
+* React Native mobile app (16+ screens)
+* Tenant + landlord workflows
+* AI chatbot integration
+* Designed in Figma, built end-to-end
+
+---
+
+### ⚽ Computer Vision Systems
+
+* Real-time object detection using YOLO
+* Sports tracking and analytics pipelines
+
+---
+
+## 🎓 Education
+
+**National University of Sciences and Technology (NUST), Islamabad**
+🎓 BS Computer Science (2021 – 2025) — CGPA: 3.23
+
+**Beaconhouse Defence Campus, Lahore**
+📘 A-Levels (1A* 3A)
+📘 O-Levels (6A* 4A)
+
+---
+
+## 📈 What I Bring
+
+✔ Strong AI + Software Engineering foundation
+✔ Experience with real-world production systems
+✔ Ability to build end-to-end AI-powered applications
+✔ Clean, scalable, and maintainable code
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 LinkedIn: *(add your link)*
+* 💻 GitHub: *(add your link)*
+* 📧 Email: [muhammadfaizan9222@gmail.com](mailto:muhammadfaizan9222@gmail.com)
+
+---
+
+⭐ *Open to AI roles, freelance opportunities, and collaborations in intelligent systems and full-stack development.*

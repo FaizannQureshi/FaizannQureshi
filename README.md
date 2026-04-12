@@ -5,8 +5,10 @@ AI Developer | Full-Stack Engineer | LLM & RAG Systems Specialist
 </p>
 
 <p align="center">
-📞 +92 3357903070 • ✉️ muhammadfaizan9222@gmail.com  
-🔗 GitHub • LinkedIn  
+📞 +92 3357903070 • 
+✉️ <a href="mailto:muhammadfaizan9222@gmail.com">muhammadfaizan9222@gmail.com</a> • 
+🔗 <a href="https://github.com/FaizannQureshi">GitHub</a> • 
+<a href="https://www.linkedin.com/in/muhammad-faizan-qureshi-000b8b230/">LinkedIn</a>
 </p>
 
 ---
@@ -90,32 +92,6 @@ Git, GitHub, Docker, Jupyter, VS Code, Google Colab, n8n
 
 ---
 
-## 🚀 Featured Work
-
-### 🤖 AI Data Ingestion & RAG Systems
-
-* Built scalable pipelines for processing unstructured data
-* Implemented vector search using ChromaDB
-* Designed context-aware LLM responses
-
----
-
-### 📱 FindMyStay – Off-Campus Housing App
-
-* React Native mobile app (16+ screens)
-* Tenant + landlord workflows
-* AI chatbot integration
-* Designed in Figma, built end-to-end
-
----
-
-### ⚽ Computer Vision Systems
-
-* Real-time object detection using YOLO
-* Sports tracking and analytics pipelines
-
----
-
 ## 🎓 Education
 
 **National University of Sciences and Technology (NUST), Islamabad**
@@ -139,11 +115,11 @@ Git, GitHub, Docker, Jupyter, VS Code, Google Colab, n8n
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect  
 
-* 💼 LinkedIn: *(https://www.linkedin.com/in/muhammad-faizan-qureshi-000b8b230/)*
-* 💻 GitHub: *([add your link](https://github.com/FaizannQureshi))*
-* 📧 Email: [muhammadfaizan9222@gmail.com](mailto:muhammadfaizan9222@gmail.com)
+- 💼 LinkedIn: [Muhammad Faizan Qureshi](https://www.linkedin.com/in/muhammad-faizan-qureshi-000b8b230/)  
+- 💻 GitHub: [FaizannQureshi](https://github.com/FaizannQureshi)  
+- 📧 Email: [muhammadfaizan9222@gmail.com](mailto:muhammadfaizan9222@gmail.com)  
 
 ---
 

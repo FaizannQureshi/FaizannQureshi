@@ -30,7 +30,7 @@ I combine **AI engineering + full-stack development**, allowing me to deliver co
 
 ### 🧠 AI & Data Engineer (ASE) — GoSaaS, Inc.
 
-📅 Sep 2025 – Present
+📅 Sep 2023 – Present
 
 * 🎓 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 * 🤖 Fine-tuned GPT OSS-20B using LoRA for PLM schema understanding and prompt-to-SQL generation (~900 Q&A pairs)
@@ -55,7 +55,7 @@ I combine **AI engineering + full-stack development**, allowing me to deliver co
 
 ### 📊 Project Intern — Pakistan Oxygen Limited (POL)
 
-📅 July 2024 – Aug 2024
+📅 July 2023 – Aug 2023
 
 * 📈 Improved data workflows in Deliver & CAM operations
 * 📊 Developed dashboards for cylinder tracking and logistics
@@ -119,7 +119,7 @@ Git, GitHub, Docker, Jupyter, VS Code, Google Colab, n8n
 ## 🎓 Education
 
 **National University of Sciences and Technology (NUST), Islamabad**
-🎓 BS Computer Science (2021 – 2025) — CGPA: 3.23
+🎓 BS Computer Science (2019 – 2023) — CGPA: 3.23
 
 **Beaconhouse Defence Campus, Lahore**
 📘 A-Levels (1A* 3A)
@@ -141,8 +141,8 @@ Git, GitHub, Docker, Jupyter, VS Code, Google Colab, n8n
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: *(add your link)*
-* 💻 GitHub: *(add your link)*
+* 💼 LinkedIn: *(https://www.linkedin.com/in/muhammad-faizan-qureshi-000b8b230/)*
+* 💻 GitHub: *([add your link](https://github.com/FaizannQureshi))*
 * 📧 Email: [muhammadfaizan9222@gmail.com](mailto:muhammadfaizan9222@gmail.com)
 
 ---

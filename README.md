@@ -130,8 +130,11 @@ Git, GitHub, Docker, Jupyter, VS Code, Google Colab, n8n
 ## 📈 What I Bring
 
 ✔ Strong AI + Software Engineering foundation
+
 ✔ Experience with real-world production systems
+
 ✔ Ability to build end-to-end AI-powered applications
+
 ✔ Clean, scalable, and maintainable code
 
 ---

@@ -128,9 +128,9 @@ Git, GitHub, Docker, Jupyter, VS Code, Google Colab, n8n
 ## 🤝 Let's Connect  
 
 - 💼 [Portfolio Website](https://faizan-qureshi.com/)  
-- 💼 [Muhammad Faizan Qureshi](https://www.linkedin.com/in/muhammad-faizan-qureshi-000b8b230/)  
-- 💻 [FaizannQureshi](https://github.com/FaizannQureshi)  
-- 📧 [muhammadfaizan9222@gmail.com](mailto:muhammadfaizan9222@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-qureshi-000b8b230/)  
+- 💻 [Github](https://github.com/FaizannQureshi)  
+- 📧 [Email](mailto:muhammadfaizan9222@gmail.com)  
 
 ---
 

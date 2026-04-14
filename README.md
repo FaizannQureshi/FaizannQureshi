@@ -31,7 +31,7 @@ I combine **AI engineering + full-stack development**, allowing me to deliver co
 
 ## 💼 Work Experience
 
-### 🧠 AI & Data Engineer (ASE) — GoSaaS, Inc.
+### 🧠 AI & Data Engineer — GoSaaS, Inc.
 
 📅 Sep 2023 – Present
 

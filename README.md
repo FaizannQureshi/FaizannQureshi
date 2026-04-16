@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Muhammad Faizan Qureshi 👋</b></h1>
 
 <p align="center">
-AI Developer | Full-Stack Engineer | LLM & RAG Systems Specialist  
+Full-Stack AI Engineer | LLM & RAG Systems Specialist  
 </p>
 
 <p align="center">

@@ -66,15 +66,6 @@ I combine **AI engineering + full-stack development**, allowing me to deliver co
 
 ---
 
-### 📊 Project Intern — Pakistan Oxygen Limited (POL)
-
-📅 July 2023 – Aug 2023
-
-* 📈 Improved data workflows in Deliver & CAM operations
-* 📊 Developed dashboards for cylinder tracking and logistics
-
----
-
 ## 🛠️ Technical Skills
 
 ### 🤖 AI / Machine Learning

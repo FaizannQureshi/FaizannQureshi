@@ -90,7 +90,7 @@ MongoDB, MySQL, Firebase, Supabase, OTBI, BI Publisher
 
 ### ⚙️ Tools
 
-Git, GitHub, Docker, Jupyter, VS Code, Google Colab, n8n
+Claude Code, Cursor, Git, GitHub, Docker, Jupyter, VS Code, Google Colab, n8n
 
 ---
 

@@ -58,7 +58,7 @@ I combine **AI engineering + full-stack development**, allowing me to deliver co
 
 📅 Dec 2024 – Aug 2025
 
-* 🌐 Built **BookYOLO** – AI-powered listing analyzer for Airbnb/Agoda/Booking platforms
+* 🌐 Built BookYOLO – AI-powered listing analyzer for Airbnb/Agoda/Booking platforms
 * 🧠 Developed physics-informed regression model (PyTorch) for CFD simulations
 * ⚽ Fine-tuned YOLOv11 for real-time football detection (OpenCV + custom dataset)
 * 🎨 Fine-tuned Stable Diffusion (DreamBooth) for brand-specific image generation

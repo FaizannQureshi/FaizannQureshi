@@ -33,7 +33,7 @@ I combine **AI engineering + full-stack development**, allowing me to deliver co
 
 ### 🧠 AI & Data Engineer — GoSaaS, Inc.
 
-📅 Sep 2023 – Present
+📅 Sep 2025 – Present
 
 * 🎓 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 * 🤖 Fine-tuned GPT OSS-20B using LoRA for PLM schema understanding and prompt-to-SQL generation (~900 Q&A pairs)

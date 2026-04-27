@@ -6,7 +6,7 @@ Full-Stack AI Engineer | LLM & RAG Systems Specialist
 
 <p align="center">
 📞 +92 3357903070 • 
-✉️ <a href="mailto:muhammadfaizan9222@gmail.com">muhammadfaizan9222@gmail.com</a> • 
+✉️ <a href="mailto:faizan7qureshi7@gmail.com">faizan7qureshi7@gmail.com</a> • 
 🔗 <a href="https://github.com/FaizannQureshi">GitHub</a> • 
 <a href="https://www.linkedin.com/in/muhammad-faizan-qureshi-000b8b230/">LinkedIn</a> •
 <a href="https://faizan-qureshi.com/">Portfolio</a>

@@ -45,7 +45,7 @@ I combine **AI engineering + full-stack development**, allowing me to deliver co
 ---
 
 ### 🤖 AI Automation Engineer — FlowRMS  
-📅 Dec 2025 – Mar 2026  
+📅 Nov 2025 – Mar 2026  
 
 - ⚙️ Developed AI-driven automation workflows to streamline business processes  
 - 🤖 Built and integrated LLM-based agents for task automation and data handling  
